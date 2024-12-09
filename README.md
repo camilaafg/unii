@@ -1,12 +1,18 @@
 # unii
 Link del videoo: https://drive.google.com/drive/folders/1tncOn-bG188HZpcDUEU6PwHWoT0-sJkD?usp=drive_link 
 Epic Soccer Legends Arena
-Epic Soccer Legends Arena is a simplified football card game inspired by "MADFUT." The game combines card collection mechanics with strategic gameplay, offering football fans an engaging and dynamic experience. Players can build teams using footballer cards, considering team chemistry and ratings, and compete in simulated matches. A mini-game mode, Fatal, adds extra excitement and rewards.
+
+Epic Soccer Legends Arena is a simplified football card game inspired by "MADFUT." The game combines card collection mechanics with strategic gameplay, offering football fans an engaging and dynamic experience. 
+Players can build teams using footballer cards, considering team chemistry and ratings, and compete in simulated matches. A mini-game mode, Fatal, adds extra excitement and rewards.
 
 Table of Contents
+
 General Description
+
 Project Objectives
+
 Functional Scope
+
 Core Gameplay
 Graphics and Animations
 Sound and Music
