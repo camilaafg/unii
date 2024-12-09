@@ -6,19 +6,13 @@ Epic Soccer Legends Arena is a simplified football card game inspired by "MADFUT
 Players can build teams using footballer cards, considering team chemistry and ratings, and compete in simulated matches. A mini-game mode, Fatal, adds extra excitement and rewards.
 
 Table of Contents
-
 General Description
-
 Project Objectives
-
 Functional Scope
-
 Core Gameplay
-
 Graphics and Animations
 Sound and Music
 User Interface (UI)
-
 Exclusions
 
 Development Platform
