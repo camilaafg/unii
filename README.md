@@ -14,10 +14,13 @@ Project Objectives
 Functional Scope
 
 Core Gameplay
+
 Graphics and Animations
 Sound and Music
 User Interface (UI)
+
 Exclusions
+
 Development Platform
 General Description
 Epic Soccer Legends Arena offers a simple yet enjoyable card-based football game experience. Players will collect footballer cards, build teams, and participate in simulated matches or the Fatal mini-game. The game provides an offline, single-player experience with straightforward mechanics, suitable for casual and strategic players alike.
