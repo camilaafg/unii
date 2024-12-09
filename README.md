@@ -44,3 +44,17 @@ Game Engine: Cocos2d-x
 Target Operating Systems: Windows
 Future Work
 Although this project is limited to a single-player experience, potential future updates may include expanded content, new game modes, or even multiplayer functionality, depending on user feedback.
+
+Fonts:
+From https://www.dafont.com/es/
+
+Audio:
+https://www.youtube.com/watch?v=bf43dRUBSks&pp=ygUKdGhlIHRocmlsbA%3D%3D
+https://www.youtube.com/watch?v=wnDnH0CsqLE&pp=ygUGYmFsYWRh
+https://www.youtube.com/watch?v=Rzkq3D4uzPs
+https://www.sonidosmp3gratis.com/silbato
+
+Sprites:
+IA
+https://www.ea.com/es-mx/games/ea-sports-fc/ratings
+Google
